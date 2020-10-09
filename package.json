@@ -1,7 +1,13 @@
 {
   "name": "spotivue",
+  "description": "Vue application using spotify api",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Dony Cisneros",
+    "email": "dony.cisne@gmail.com",
+    "url": "https://www.donycisneros.com"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
